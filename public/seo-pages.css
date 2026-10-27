@@ -1,0 +1,11 @@
+.service-page .site-header{position:relative;color:var(--ink);border-bottom:1px solid var(--line);height:auto;min-height:100px}
+.service-page .site-header nav a{display:flex;align-items:center;min-height:44px}
+.service-intro{display:grid;grid-template-columns:1fr 1fr;gap:7%;padding-top:60px;padding-bottom:70px;align-items:center}
+.service-intro h1{font-size:clamp(2.8rem,5.2vw,5.6rem)}.service-intro .intro{max-width:560px}
+.service-intro img{width:100%;height:auto;aspect-ratio:3/4;max-height:720px;border:2px solid var(--ink);border-radius:28px;box-shadow:8px 9px 0 var(--ink)}
+.service-intro figcaption{margin-top:20px;font-size:.9rem}.service-page h2{font-size:clamp(2rem,4vw,3.8rem);max-width:900px}
+.service-project{background:#ffd1e4}.service-project p:not(.eyebrow),.service-text{max-width:800px;margin-top:28px;font-size:1.1rem}
+.service-actions{display:flex;gap:24px;flex-wrap:wrap;margin-top:32px;align-items:center}.service-pricing{background:#ffdc4f}
+.service-prices{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin:32px 0}.service-prices article{padding:28px;background:var(--paper);border:2px solid var(--ink);border-radius:24px}.service-prices strong{display:block;font-size:1.8rem;margin-top:16px}.service-prices p{margin-top:16px}.service-prices ul{padding-left:20px}
+.service-pricing>p{margin-top:28px;max-width:800px}.service-links{display:flex;gap:28px;flex-wrap:wrap;margin-top:32px}.service-page .site-footer>a{min-height:44px;display:flex;align-items:center}
+@media(max-width:760px){.service-intro{grid-template-columns:1fr;gap:40px;padding-top:40px}.service-prices{grid-template-columns:1fr}.service-page .site-header{min-height:100px}.service-intro img{max-height:600px}.service-actions .button{width:100%}.service-links{gap:24px}.service-links a{min-height:44px}}

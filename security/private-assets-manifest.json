@@ -1,0 +1,127 @@
+[
+  {
+    "path": "/erna/erna.webp",
+    "bytes": 25484,
+    "sha256": "609015fc3339947fc3021eca58416a634f95d368291750356e258e439f1271a6"
+  },
+  {
+    "path": "/erna/gui.webp",
+    "bytes": 1542,
+    "sha256": "6920776382331e2a938694d73ad8861d3e713bb2afb22362bbccd547d69de231"
+  },
+  {
+    "path": "/erna/inspo-1.webp",
+    "bytes": 50162,
+    "sha256": "dede676174fc70e193f72e674d5359bcee3cdc0b9d6c1e50f186f872a8844795"
+  },
+  {
+    "path": "/erna/inspo-10.webp",
+    "bytes": 50074,
+    "sha256": "9b3a93fc6709c44b8ad72e7d429eafc83d8ebde08aac2831b61c4ce536fb1c30"
+  },
+  {
+    "path": "/erna/inspo-2.webp",
+    "bytes": 116882,
+    "sha256": "27076e908249f6ecb8525c912f5468664d218f3e35885495ef1a57a44eaa0816"
+  },
+  {
+    "path": "/erna/inspo-3.webp",
+    "bytes": 50588,
+    "sha256": "5d8f4dac0b0631cc56877395e1571c60043b0b55df84d615370890f8e6664c44"
+  },
+  {
+    "path": "/erna/inspo-4.webp",
+    "bytes": 51168,
+    "sha256": "07d0b404326b15c88b97131d6195f9a1795e13b61807c12c8dd7228e8399ef2c"
+  },
+  {
+    "path": "/erna/inspo-5.webp",
+    "bytes": 30814,
+    "sha256": "753b04cf44cb59ee770c265ff5491bf630f1e3cb20c4fb86bd71b491727971ff"
+  },
+  {
+    "path": "/erna/inspo-6.webp",
+    "bytes": 63388,
+    "sha256": "fa7972023533191e42dae01f07098dae269737063956e9409e2e54169b593830"
+  },
+  {
+    "path": "/erna/inspo-7.webp",
+    "bytes": 75732,
+    "sha256": "f98029700466629a537d267f83b3f4de1d3e34526db12fda837f99acb2305e72"
+  },
+  {
+    "path": "/erna/inspo-8.webp",
+    "bytes": 50488,
+    "sha256": "bdfd1028a54af68381076bc2970b5cfe12d32ffbf2c23674bb9aae8f7c825f5d"
+  },
+  {
+    "path": "/erna/inspo-9.webp",
+    "bytes": 35798,
+    "sha256": "478586c910753dd9b7c20e045d6875651f88b59ddf40a192845f0a1d430eefc7"
+  },
+  {
+    "path": "/erna/playlist.webp",
+    "bytes": 83682,
+    "sha256": "69ca9d1316621745bb76a05b59ca4f5e2d7a0c3ff54d5bbab88631cc2660b813"
+  },
+  {
+    "path": "/erna/studio-0.webp",
+    "bytes": 84390,
+    "sha256": "1759605a4663765829fb20cc108de5b10879635d1774b7793a5d73b0acc7985f"
+  },
+  {
+    "path": "/erna/studio-1.webp",
+    "bytes": 90764,
+    "sha256": "3d225cfdea360cc0e71e6062e9b695dffa2b93143358c7116e7a23c93ea2ed86"
+  },
+  {
+    "path": "/erna/studio-2.webp",
+    "bytes": 89452,
+    "sha256": "adb23d7e9fa4d35c1927239331ece898430d151defba677b64399b56f973b254"
+  },
+  {
+    "path": "/may/alex.jpg",
+    "bytes": 1143711,
+    "sha256": "ea08729a4835a39c0216ba62966e3f1e09be66a49b38d35bba99e40986cdf7ee"
+  },
+  {
+    "path": "/may/gui.jpg",
+    "bytes": 421762,
+    "sha256": "7f06b636093a07588c7e3a1f09e1752f713be37a13277e6dc767ba1f6ac0e237"
+  },
+  {
+    "path": "/may/may.png",
+    "bytes": 36684,
+    "sha256": "2884ce554f438dc71133a733e0f7a905c0aabbc80c47c19bf29aaa64e13125d9"
+  },
+  {
+    "path": "/clients/birta/2021-1.webp",
+    "bytes": 183872,
+    "sha256": "7ceb78b2102dcec580bc6bf116f67f8da529c1cd50425035e5768cf320d9a226"
+  },
+  {
+    "path": "/clients/birta/2021-12.webp",
+    "bytes": 313474,
+    "sha256": "ec3cd0784e777f9d57d4d4e3f25a16eb411125a665f0799783a6a9c26ad2bd72"
+  },
+  {
+    "path": "/clients/birta/2021-18.webp",
+    "bytes": 321692,
+    "sha256": "857df8a80f8112ced4cf7a71500dc7d2e84cbdcc0ce31c3e51bd0df793003bbe"
+  },
+  {
+    "path": "/clients/birta/2021-19.webp",
+    "bytes": 160332,
+    "sha256": "7a5fa8b92d4a41bfe638aba89a6bdfed2ff100090d1bdf9dab9dc37ada0fee7c"
+  },
+  {
+    "path": "/clients/birta/2021-6.webp",
+    "bytes": 267354,
+    "sha256": "d1037a479bf39e364a7a90b01528e471afafcedbd1fe03466e584bc8d19cd9ac"
+  },
+  {
+    "path": "/clients/birta/2021-9.webp",
+    "bytes": 146900,
+    "sha256": "4c6a5a9e8e9fe87f6fb0d00c0f7db74e9b436ca8b171cf24c8b776af2b490648"
+  }
+]

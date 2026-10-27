@@ -1,0 +1,682 @@
+[
+  {
+    "id": "home-0",
+    "section": "home",
+    "sectionTitle": "Forsíða",
+    "label": "Persónulegar myndatökur · Reykjavík",
+    "value": "Persónulegar myndatökur · Reykjavík",
+    "tag": "p"
+  },
+  {
+    "id": "home-1",
+    "section": "home",
+    "sectionTitle": "Forsíða",
+    "label": "Sjáðu þig í nýju ljósi.",
+    "value": "Sjáðu þig í nýju ljósi.",
+    "tag": "h1"
+  },
+  {
+    "id": "home-2",
+    "section": "home",
+    "sectionTitle": "Forsíða",
+    "label": "Komdu með pælinguna, uppáhaldsfötin eða bara löngunina til að prófa ei",
+    "value": "Komdu með pælinguna, uppáhaldsfötin eða bara löngunina til að prófa eitthvað nýtt. Við finnum út úr restinni saman.",
+    "tag": "p"
+  },
+  {
+    "id": "home-3",
+    "section": "home",
+    "sectionTitle": "Forsíða",
+    "label": "Engin reynsla nauðsynleg. Ég leiðbeini þér í gegnum tökuna.",
+    "value": "Engin reynsla nauðsynleg. Ég leiðbeini þér í gegnum tökuna.",
+    "tag": "p"
+  },
+  {
+    "id": "home-4",
+    "section": "home",
+    "sectionTitle": "Forsíða",
+    "label": "JENNY / LJÓS & SKUGGAR",
+    "value": "FÓLK. LITIR. HUGMYNDAFLUG.",
+    "tag": "figcaption"
+  },
+  {
+    "id": "home-5",
+    "section": "home",
+    "sectionTitle": "Forsíða",
+    "label": "SAMA MANNESKJA. NÝTT LJÓS.",
+    "value": "LJÓSMYND EFTIR SNJÓKALLINN",
+    "tag": "figcaption"
+  },
+  {
+    "id": "work-0",
+    "section": "work",
+    "sectionTitle": "Myndirnar",
+    "label": "Fólkið fyrir framan myndavélina",
+    "value": "Fólkið fyrir framan myndavélina",
+    "tag": "p"
+  },
+  {
+    "id": "work-1",
+    "section": "work",
+    "sectionTitle": "Myndirnar",
+    "label": "Þú mátt taka pláss.",
+    "value": "Þú mátt taka pláss.",
+    "tag": "h2"
+  },
+  {
+    "id": "work-2",
+    "section": "work",
+    "sectionTitle": "Myndirnar",
+    "label": "Mjúkt ljós, sterkir litir eða eitthvað allt annað. Við finnum það sem ",
+    "value": "Mjúkt ljós, sterkir litir eða eitthvað allt annað. Við finnum það sem passar við þig.",
+    "tag": "p"
+  },
+  {
+    "id": "work-3",
+    "section": "work",
+    "sectionTitle": "Myndirnar",
+    "label": "Beta",
+    "value": "Beta",
+    "tag": "h3"
+  },
+  {
+    "id": "work-4",
+    "section": "work",
+    "sectionTitle": "Myndirnar",
+    "label": "Daði",
+    "value": "Daði",
+    "tag": "h3"
+  },
+  {
+    "id": "work-5",
+    "section": "work",
+    "sectionTitle": "Myndirnar",
+    "label": "Jenný",
+    "value": "Jenný",
+    "tag": "h3"
+  },
+  {
+    "id": "work-6",
+    "section": "work",
+    "sectionTitle": "Myndirnar",
+    "label": "Alls kyns fólk, pælingar og augnablik í gegnum tíðina.",
+    "value": "Alls kyns fólk, pælingar og augnablik í gegnum tíðina.",
+    "tag": "p"
+  },
+  {
+    "id": "story-0",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Sagan á bak við myndina / 01",
+    "value": "Sagan á bak við myndina / 01",
+    "tag": "p"
+  },
+  {
+    "id": "story-1",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Þú teiknar. Ég mynda.",
+    "value": "Þú teiknar. Ég mynda.",
+    "tag": "h2"
+  },
+  {
+    "id": "story-2",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Ég sá það sem Embla var að skapa og langaði að vinna með henni.",
+    "value": "Ég sá það sem Embla var að skapa og langaði að vinna með henni.",
+    "tag": "p"
+  },
+  {
+    "id": "story-3",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Hún er algjör snillingur. Við þróuðum hugmyndina saman, fyrst ko",
+    "value": "Hún er algjör snillingur. Við þróuðum hugmyndina saman. Fyrst kom teikningin og svo myndatakan. Það er einmitt svona samstarf sem mér finnst svo skemmtilegt: að taka pælingu og sjá hvað við getum gert úr henni.",
+    "tag": "p"
+  },
+  {
+    "id": "story-4",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Samstarf við Emblu · Teiknaðu og myndaðu",
+    "value": "Samstarf við Emblu · Teiknaðu og myndaðu",
+    "tag": "p"
+  },
+  {
+    "id": "story-5",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Fleiri sögur, fleiri pælingar",
+    "value": "Fleiri sögur, fleiri pælingar",
+    "tag": "h3"
+  },
+  {
+    "id": "story-6",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Gugga í Elliðaárdalnum",
+    "value": "Gugga í Elliðaárdalnum",
+    "tag": "h3"
+  },
+  {
+    "id": "story-7",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Við höfum kynnst í gegnum margar myndatökur og tónlistarmyndbönd.",
+    "value": "Við höfum kynnst í gegnum margar myndatökur og tónlistarmyndbönd. Hér lá leiðin út í dalinn.",
+    "tag": "p"
+  },
+  {
+    "id": "story-8",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Tveir gæjar í kjól",
+    "value": "Tveir gæjar í kjól",
+    "tag": "h3"
+  },
+  {
+    "id": "story-9",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Ég setti hugmynd á Instagram. Sverrir og Gunnar svöruðu, og við ",
+    "value": "Ég setti hugmynd á Instagram. Sverrir og Gunnar svöruðu og við fórum út í náttúruna.",
+    "tag": "p"
+  },
+  {
+    "id": "experience-0",
+    "section": "experience",
+    "sectionTitle": "Upplifunin",
+    "label": "Frá fyrstu pælingu að fullunnum myndum",
+    "value": "Frá fyrstu pælingu að fullunnum myndum",
+    "tag": "p"
+  },
+  {
+    "id": "experience-1",
+    "section": "experience",
+    "sectionTitle": "Upplifunin",
+    "label": "Svona verður myndatakan okkar til.",
+    "value": "Svona verður myndatakan okkar til.",
+    "tag": "h2"
+  },
+  {
+    "id": "experience-2",
+    "section": "experience",
+    "sectionTitle": "Upplifunin",
+    "label": "Við tökum þetta eitt skref í einu.",
+    "value": "Við tökum þetta eitt skref í einu.",
+    "tag": "p"
+  },
+  {
+    "id": "experience-3",
+    "section": "experience",
+    "sectionTitle": "Upplifunin",
+    "label": "Við byrjum á spjalli.",
+    "value": "Við byrjum á spjalli.",
+    "tag": "h3"
+  },
+  {
+    "id": "experience-4",
+    "section": "experience",
+    "sectionTitle": "Upplifunin",
+    "label": "Segðu mér hvað þig langar að prófa, eða bara að þig langi í myndatöku.",
+    "value": "Segðu mér hvað þig langar að prófa, eða bara að þig langi í myndatöku. Við finnum tíma, umfang og stemningu saman.",
+    "tag": "p"
+  },
+  {
+    "id": "experience-5",
+    "section": "experience",
+    "sectionTitle": "Upplifunin",
+    "label": "Við prófum okkur áfram.",
+    "value": "Við prófum okkur áfram.",
+    "tag": "h3"
+  },
+  {
+    "id": "experience-6",
+    "section": "experience",
+    "sectionTitle": "Upplifunin",
+    "label": "Ég hjálpa þér með stellingar og hreyfingu. Við skoðum myndirnar saman,",
+    "value": "Ég hjálpa þér með stellingar og hreyfingu. Við skoðum myndirnar saman, gefum okkur tíma og sjáum hvað þér finnst skemmtilegt.",
+    "tag": "p"
+  },
+  {
+    "id": "experience-7",
+    "section": "experience",
+    "sectionTitle": "Upplifunin",
+    "label": "Þú velur uppáhaldsmyndirnar.",
+    "value": "Þú velur uppáhaldsmyndirnar.",
+    "tag": "h3"
+  },
+  {
+    "id": "experience-8",
+    "section": "experience",
+    "sectionTitle": "Upplifunin",
+    "label": "Myndaval er yfirleitt tilbúið innan 7 daga. Fullunnar myndir færðu 1 t",
+    "value": "Myndaval er yfirleitt tilbúið innan 7 daga. Fullunnar myndir færðu 1 til 2 vikum eftir val. Þrjú 10 × 15 cm prent fylgja portrettpökkunum.",
+    "tag": "p"
+  },
+  {
+    "id": "about-0",
+    "section": "about",
+    "sectionTitle": "Alex",
+    "label": "Ljósmyndarinn þinn",
+    "value": "Ljósmyndarinn þinn",
+    "tag": "p"
+  },
+  {
+    "id": "about-1",
+    "section": "about",
+    "sectionTitle": "Alex",
+    "label": "Hæ, ég er Alex.",
+    "value": "Hæ, ég er Alex.",
+    "tag": "h2"
+  },
+  {
+    "id": "about-2",
+    "section": "about",
+    "sectionTitle": "Alex",
+    "label": "Ég trúi því að allir myndist vel. Mitt hlutverk er að hjálpa þér að lí",
+    "value": "Ég trúi því að allir myndist vel. Mitt hlutverk er að hjálpa þér að líða vel fyrir framan myndavélina.",
+    "tag": "p"
+  },
+  {
+    "id": "about-3",
+    "section": "about",
+    "sectionTitle": "Alex",
+    "label": "Ég er úr Laugardalnum, elska liti, óvenjuleg föt og að kynnast fólki. ",
+    "value": "Ég er úr Laugardalnum, elska liti, óvenjuleg föt og að kynnast fólki. Í sjútinu finnum við pláss fyrir þinn persónuleika og hugmyndir.",
+    "tag": "p"
+  },
+  {
+    "id": "about-4",
+    "section": "about",
+    "sectionTitle": "Alex",
+    "label": "Þú mátt vera spennt, feimin, hugmyndalaus eða allt í bland. Við byrjum",
+    "value": "Þú mátt vera spennt, feimin, hugmyndalaus eða allt í bland. Við byrjum þar sem þú ert.",
+    "tag": "p"
+  },
+  {
+    "id": "story-10",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Heiti myndasögu · Dóra og Döðlurnar",
+    "value": "Dóra og Döðlurnar",
+    "tag": "h3"
+  },
+  {
+    "id": "story-11",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Lýsing myndasögu · Dóra og Döðlurnar",
+    "value": "Ég kíkti á Dóru og Döðlurnar þegar þær voru að spila á Peterson-svítunni á Menningarnótt.",
+    "tag": "p"
+  },
+  {
+    "id": "story-12",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Heiti myndasögu · Anna Marín",
+    "value": "Anna Marín",
+    "tag": "h3"
+  },
+  {
+    "id": "story-13",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Lýsing myndasögu · Anna Marín",
+    "value": "Anna Marín kom. Sá. SIGRAÐI þetta sjút! Hún vildi nýjar myndir fyrir brandið sitt. Við mynduðum hana og bakkelsið sem hún hafði bakað og tókum svo nokkrar skvísumyndir.",
+    "tag": "p"
+  },
+  {
+    "id": "story-14",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Heiti myndasögu · Draumur í dós",
+    "value": "Draumur í dós",
+    "tag": "h3"
+  },
+  {
+    "id": "story-15",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Lýsing myndasögu · Draumur í dós",
+    "value": "Bak við tjöldin á Draumur í dós, söngleiknum sem Söngleikjadeild Sigurðar Dementz setti upp vorið 2026.",
+    "tag": "p"
+  },
+  {
+    "id": "story-16",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Heiti myndasögu · Myndir sem standa upp úr",
+    "value": "Myndir sem standa upp úr",
+    "tag": "h3"
+  },
+  {
+    "id": "story-17",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Lýsing myndasögu · Myndir sem standa upp úr",
+    "value": "Myndir sem hafa staðið upp úr hjá mér síðan ég byrjaði. Ólíkt fólk, ólíkar pælingar og augnablik sem sitja eftir.",
+    "tag": "p"
+  },
+  {
+    "id": "story-18",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Heiti myndasögu · Róbert",
+    "value": "Róbert",
+    "tag": "h3"
+  },
+  {
+    "id": "story-19",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Lýsing myndasögu · Róbert",
+    "value": "Róbert kom í headshot-töku. Við bjuggum til eitthvað rosalegt saman!",
+    "tag": "p"
+  },
+  {
+    "id": "story-20",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Heiti myndasögu · Krakkaskaupið",
+    "value": "Krakkaskaupið",
+    "tag": "h3"
+  },
+  {
+    "id": "story-21",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Lýsing myndasögu · Krakkaskaupið",
+    "value": "Ég mætti á settið hjá Krakkaskaupinu haustið 2025, þá undir leikstjórn Árna Beinteins.",
+    "tag": "p"
+  },
+  {
+    "id": "story-22",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Heiti myndasögu · Elsa og Halli",
+    "value": "Elsa og Halli",
+    "tag": "h3"
+  },
+  {
+    "id": "story-23",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Lýsing myndasögu · Elsa og Halli",
+    "value": "Bumbumyndir hjá Elsu og Halla.",
+    "tag": "p"
+  },
+  {
+    "id": "story-24",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Heiti myndasögu · Óðinn",
+    "value": "Óðinn",
+    "tag": "h3"
+  },
+  {
+    "id": "story-25",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Lýsing myndasögu · Óðinn",
+    "value": "Óðinn kom í headshot-töku. ICONIC.",
+    "tag": "p"
+  },
+  {
+    "id": "story-26",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Heiti myndasögu · Hanna",
+    "value": "Hanna vann gjafaleikinn",
+    "tag": "h3"
+  },
+  {
+    "id": "story-27",
+    "section": "story",
+    "sectionTitle": "Sögurnar",
+    "label": "Lýsing myndasögu · Hanna",
+    "value": "Hanna vann gjafaleikinn minn og kom í sjút þar sem hárstílisti OG förðunarartisti voru innifalin. Afurðin var einn skemmtilegasti myndatökudagur sem ég hef upplifað og minningar sem gleymast seint.",
+    "tag": "p"
+  },
+  {
+    "id": "invitation-0",
+    "section": "invitation",
+    "sectionTitle": "Komið að þér",
+    "label": "Það er komið að þér að vera módelið.",
+    "value": "Það er komið að þér að vera módelið.",
+    "tag": "h2"
+  },
+  {
+    "id": "invitation-1",
+    "section": "invitation",
+    "sectionTitle": "Komið að þér",
+    "label": "Þú þarft ekki að kunna að pósa, vita hvað þú átt að gera við hendurnar",
+    "value": "Þú þarft ekki að kunna að pósa, vita hvað þú átt að gera við hendurnar eða mæta með fullmótaða hugmynd. Ég hjálpa þér með það.",
+    "tag": "p"
+  },
+  {
+    "id": "invitation-2",
+    "section": "invitation",
+    "sectionTitle": "Komið að þér",
+    "label": "Við megum prófa, hlæja og skipta um skoðun. Markmiðið er að þér líði v",
+    "value": "Við megum prófa, hlæja og skipta um skoðun. Markmiðið er að þér líði vel og að við búum til myndir sem þig langar að eiga.",
+    "tag": "p"
+  },
+  {
+    "id": "sessions-0",
+    "section": "sessions",
+    "sectionTitle": "Komdu með í myndatöku",
+    "label": "Komdu með í myndatöku.",
+    "value": "Komdu með í myndatöku.",
+    "tag": "h2"
+  },
+  {
+    "id": "sessions-1",
+    "section": "sessions",
+    "sectionTitle": "Komdu með í myndatöku",
+    "label": "Svona getur það litið út þegar við prófum okkur áfram. Hér sérðu bæði ",
+    "value": "Svona getur það litið út þegar við prófum okkur áfram. Hér sérðu bæði augnablikin á milli og myndirnar sem verða til.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-home-0",
+    "section": "home",
+    "sectionTitle": "Ný forsíða · home",
+    "label": "Ný forsíða · Alex Snær · Ljósmyndari · Reykjavík",
+    "value": "Alex Snær · Ljósmyndari · Reykjavík",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-home-1",
+    "section": "home",
+    "sectionTitle": "Ný forsíða · home",
+    "label": "Ný forsíða · Þín hugmynd. Mitt auga. Okkar myndataka.",
+    "value": "Þín hugmynd.\nMitt auga.\nOkkar myndataka.",
+    "tag": "h1"
+  },
+  {
+    "id": "editorial-home-2",
+    "section": "home",
+    "sectionTitle": "Ný forsíða · home",
+    "label": "Ný forsíða · Ég elska að leika mér með ljós, liti og skrítnar hugmyndir. Komdu með þína ",
+    "value": "Ég elska að leika mér með ljós, liti og skrítnar hugmyndir. Komdu með þína eða við finnum eina saman.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-work-0",
+    "section": "work",
+    "sectionTitle": "Ný forsíða · work",
+    "label": "Ný forsíða · 01 / Augað",
+    "value": "01 / Augað",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-work-1",
+    "section": "work",
+    "sectionTitle": "Ný forsíða · work",
+    "label": "Ný forsíða · Myndir sem ég elska að taka.",
+    "value": "Myndir sem ég\nelska að taka.",
+    "tag": "h2"
+  },
+  {
+    "id": "editorial-work-2",
+    "section": "work",
+    "sectionTitle": "Ný forsíða · work",
+    "label": "Ný forsíða · Stundum litir og smá drama. Stundum mjúkt ljós. Ég elska að prófa eitthvað ",
+    "value": "Stundum litir og smá drama. Stundum mjúkt ljós. Ég elska að prófa eitthvað nýtt.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-work-3",
+    "section": "work",
+    "sectionTitle": "Ný forsíða · work",
+    "label": "Ný forsíða · Ég elska þegar myndatakan fer í eitthvað allt annað en við ætluðum.",
+    "value": "Ég elska þegar myndatakan fer í eitthvað allt annað en við ætluðum.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-about-0",
+    "section": "about",
+    "sectionTitle": "Ný forsíða · about",
+    "label": "Ný forsíða · 02 / Manneskjan",
+    "value": "02 / Manneskjan",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-about-1",
+    "section": "about",
+    "sectionTitle": "Ný forsíða · about",
+    "label": "Ný forsíða · Hæ, ég er Alex!",
+    "value": "Hæ, ég er Alex!",
+    "tag": "h2"
+  },
+  {
+    "id": "editorial-about-2",
+    "section": "about",
+    "sectionTitle": "Ný forsíða · about",
+    "label": "Ný forsíða · En þú mátt kalla mig Snjókallinn.",
+    "value": "En þú mátt kalla mig Snjókallinn.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-about-3",
+    "section": "about",
+    "sectionTitle": "Ný forsíða · about",
+    "label": "Ný forsíða · Ég hef verið myndavélanörd síðan ég var tólf ára. Ég elska góða hugmynd, sk",
+    "value": "Ég hef verið myndavélanörd síðan ég var tólf ára. Ég elska góða hugmynd, skrítið ljós og fólk sem er til í að prófa eitthvað nýtt.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-about-4",
+    "section": "about",
+    "sectionTitle": "Ný forsíða · about",
+    "label": "Ný forsíða · Stundum er allt planað niður í minnstu smáatriði. Stundum mætum við bara og",
+    "value": "Stundum er allt planað niður í minnstu smáatriði. Stundum mætum við bara og sjáum hvað gerist.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-about-5",
+    "section": "about",
+    "sectionTitle": "Ný forsíða · about",
+    "label": "Ný forsíða · Ég vil að myndatakan sé jafn skemmtileg og myndirnar sjálfar. Og já, ég ken",
+    "value": "Ég vil að myndatakan sé jafn skemmtileg og myndirnar sjálfar. Og já, ég kenni þér pósurnar. Þú þarft ekkert að kunna þetta fyrirfram.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-story-0",
+    "section": "story",
+    "sectionTitle": "Ný forsíða · story",
+    "label": "Ný forsíða · 03 / Pæling verður mynd",
+    "value": "03 / Pæling verður mynd",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-story-1",
+    "section": "story",
+    "sectionTitle": "Ný forsíða · story",
+    "label": "Ný forsíða · Hvað ef við prófum þetta?",
+    "value": "Hvað ef við\nprófum þetta?",
+    "tag": "h2"
+  },
+  {
+    "id": "editorial-story-2",
+    "section": "story",
+    "sectionTitle": "Ný forsíða · story",
+    "label": "Ný forsíða · Ég sá það sem Embla var að skapa og langaði að vinna með henni.",
+    "value": "Ég sá það sem Embla var að skapa og langaði að vinna með henni.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-story-3",
+    "section": "story",
+    "sectionTitle": "Ný forsíða · story",
+    "label": "Ný forsíða · Fyrst teikningin. Svo myndatakan.",
+    "value": "Fyrst teikningin.\nSvo myndatakan.",
+    "tag": "h3"
+  },
+  {
+    "id": "editorial-story-4",
+    "section": "story",
+    "sectionTitle": "Ný forsíða · story",
+    "label": "Ný forsíða · Fyrst kom teikningin, svo myndatakan. Við þróuðum hugmyndina saman.",
+    "value": "Fyrst kom teikningin, svo myndatakan. Við þróuðum hugmyndina saman.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-sessions-0",
+    "section": "sessions",
+    "sectionTitle": "Ný forsíða · sessions",
+    "label": "Ný forsíða · 04 / Án sérstakrar ástæðu",
+    "value": "04 / Án sérstakrar ástæðu",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-sessions-1",
+    "section": "sessions",
+    "sectionTitle": "Ný forsíða · sessions",
+    "label": "Ný forsíða · Bara af því að mig langaði.",
+    "value": "Bara af því\nað mig langaði.",
+    "tag": "h2"
+  },
+  {
+    "id": "editorial-sessions-2",
+    "section": "sessions",
+    "sectionTitle": "Ný forsíða · sessions",
+    "label": "Ný forsíða · Stundum langar mig bara að taka myndir. Ekki plana neitt.",
+    "value": "Stundum langar mig bara að taka myndir. Ekki plana neitt.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-sessions-3",
+    "section": "sessions",
+    "sectionTitle": "Ný forsíða · sessions",
+    "label": "Ný forsíða · Stundum langar mig bara að muna augnablikið.",
+    "value": "Stundum langar mig bara að muna augnablikið.",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-invitation-0",
+    "section": "invitation",
+    "sectionTitle": "Ný forsíða · invitation",
+    "label": "Ný forsíða · 05 / Okkar myndataka",
+    "value": "05 / Okkar myndataka",
+    "tag": "p"
+  },
+  {
+    "id": "editorial-invitation-1",
+    "section": "invitation",
+    "sectionTitle": "Ný forsíða · invitation",
+    "label": "Ný forsíða · Eigum við að mynda?",
+    "value": "Eigum við\nað mynda?",
+    "tag": "h2"
+  },
+  {
+    "id": "editorial-invitation-2",
+    "section": "invitation",
+    "sectionTitle": "Ný forsíða · invitation",
+    "label": "Ný forsíða · Ertu með hugmynd sem þig langar að prófa? Eða vantar þig bara geggjaðar myn",
+    "value": "Ertu með hugmynd sem þig langar að prófa? Eða vantar þig bara geggjaðar myndir af sjálfum þér?\n\nSendu mér skilaboð og við finnum út úr þessu saman.",
+    "tag": "p"
+  }
+]

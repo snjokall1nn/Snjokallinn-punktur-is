@@ -1,0 +1,120 @@
+{
+  "schema": 1,
+  "revision": 0,
+  "albums": [],
+  "texts": {
+    "home-0": "Persónulegar myndatökur · Reykjavík",
+    "home-2": "Komdu með pælinguna, uppáhaldsfötin eða bara löngunina til að prófa eitthvað nýtt. Við finnum út úr restinni saman.",
+    "home-3": "Engin reynsla nauðsynleg. Ég leiðbeini þér í gegnum tökuna.",
+    "work-0": "Fólkið fyrir framan myndavélina",
+    "work-1": "Þú mátt taka pláss.",
+    "work-2": "Mjúkt ljós, sterkir litir eða eitthvað allt annað. Við finnum það sem passar við þig.",
+    "experience-0": "Frá fyrstu pælingu að fullunnum myndum",
+    "experience-1": "Svona verður myndatakan okkar til.",
+    "experience-2": "Við tökum þetta eitt skref í einu.",
+    "experience-3": "Við byrjum á spjalli.",
+    "experience-4": "Segðu mér hvað þig langar að prófa, eða bara að þig langi í myndatöku. Við finnum tíma, umfang og stemningu saman.",
+    "experience-5": "Við prófum okkur áfram.",
+    "experience-6": "Ég hjálpa þér með stellingar og hreyfingu. Við skoðum myndirnar saman, gefum okkur tíma og sjáum hvað þér finnst skemmtilegt.",
+    "experience-7": "Þú velur uppáhaldsmyndirnar.",
+    "experience-8": "Myndaval er yfirleitt tilbúið innan 7 daga. Fullunnar myndir færðu 1 til 2 vikum eftir val. Þrjú 10 × 15 cm prent fylgja portrettpökkunum.",
+    "about-0": "Ljósmyndarinn þinn",
+    "about-1": "Hæ, ég er Alex.",
+    "about-2": "Ég trúi því að allir myndist vel. Mitt hlutverk er að hjálpa þér að líða vel fyrir framan myndavélina.",
+    "about-3": "Ég er úr Laugardalnum, elska liti, óvenjuleg föt og að kynnast fólki. Í sjútinu finnum við pláss fyrir þinn persónuleika og hugmyndir.",
+    "about-4": "Þú mátt vera spennt, feimin, hugmyndalaus eða allt í bland. Við byrjum þar sem þú ert.",
+    "invitation-0": "Það er komið að þér að vera módelið.",
+    "invitation-1": "Þú þarft ekki að kunna að pósa, vita hvað þú átt að gera við hendurnar eða mæta með fullmótaða hugmynd. Ég hjálpa þér með það.",
+    "invitation-2": "Við megum prófa, hlæja og skipta um skoðun. Markmiðið er að þér líði vel og að við búum til myndir sem þig langar að eiga.",
+    "sessions-0": "Komdu með í myndatöku.",
+    "sessions-1": "Svona getur það litið út þegar við prófum okkur áfram. Hér sérðu bæði augnablikin á milli og myndirnar sem verða til."
+  },
+  "sections": [
+    {
+      "id": "home",
+      "title": "Forsíða",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "invitation",
+      "title": "Komið að þér",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "sessions",
+      "title": "Komdu með í myndatöku",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "work",
+      "title": "Myndirnar",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "about",
+      "title": "Alex",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "testimonials",
+      "title": "Umsagnir",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "experience",
+      "title": "Upplifunin",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "pricing",
+      "title": "Pakkar og verð",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "prints",
+      "title": "Prent",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "faq",
+      "title": "Algengar spurningar",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "contact",
+      "title": "Stutt fyrirspurn",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "journey",
+      "title": "Kviss og undirbúningur",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "story",
+      "title": "Sögurnar",
+      "hidden": false,
+      "kind": "existing"
+    },
+    {
+      "id": "albums",
+      "title": "Albúm",
+      "hidden": false,
+      "kind": "albums"
+    }
+  ],
+  "extraSections": [],
+  "updatedAt": null
+}

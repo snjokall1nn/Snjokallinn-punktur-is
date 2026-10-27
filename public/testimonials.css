@@ -1,0 +1,22 @@
+.testimonials-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;align-items:start}
+.testimonial-card{min-width:0;scroll-margin-top:100px;background:#fff8f0;border:1px solid #d9c4b6;border-radius:22px;overflow:hidden}
+.testimonial-gallery{position:relative;background:#171315;aspect-ratio:4/5;isolation:isolate;touch-action:pan-y}
+.testimonial-gallery>img{width:100%;height:100%;display:block;object-fit:contain}
+.testimonial-overlay{position:absolute;inset:0 0 auto;padding:12px 12px 35px;background:linear-gradient(#0009,transparent);pointer-events:none;z-index:2}
+.testimonial-progress{display:flex;gap:4px}.testimonial-progress i{height:3px;flex:1;background:#ffffff55;border-radius:5px}.testimonial-progress i.active{background:#fff}
+.testimonial-counter{display:block;text-align:right;color:#fff;font-size:12px;margin-top:7px}
+.testimonial-gallery button{position:absolute;top:0;bottom:0;width:50%;border:0;background:transparent;color:#fff;font-size:38px;cursor:pointer;text-shadow:0 1px 8px #000;display:flex;align-items:center;padding:14px;opacity:.6}
+.testimonial-gallery button[hidden]{display:none}.testimonial-gallery button:hover,.testimonial-gallery button:focus-visible{opacity:1;background:linear-gradient(90deg,#0002,transparent)}
+.testimonial-prev{left:0;justify-content:flex-start}.testimonial-next{right:0;justify-content:flex-end}
+.testimonial-gallery:focus-visible,.testimonial-gallery button:focus-visible{outline:3px solid #e9b949;outline-offset:-3px}
+.testimonial-copy{padding:24px}.testimonial-copy h3{font-size:21px;margin:0 0 18px;line-height:1.3}
+.testimonial-copy blockquote{margin:0 0 20px;font-size:17px;line-height:1.7;white-space:pre-line;overflow-wrap:anywhere;font-style:normal}
+.testimonial-copy blockquote:last-child{margin-bottom:0}.testimonial-label{font-size:12px;text-transform:uppercase;letter-spacing:.1em;margin:26px 0 12px;opacity:.6}
+.testimonial-hint{font-size:14px;opacity:.7;margin:0 0 24px}.testimonials .section-heading{gap:24px}
+.testimonials-intro{padding:60px 0 24px;max-width:850px}.testimonials-intro h1{font-size:clamp(40px,6vw,78px);line-height:1.05;margin:15px 0 24px}
+.testimonial-people{display:flex;overflow-x:auto;gap:20px;padding:12px 0 30px;margin-bottom:28px;scrollbar-width:thin}
+.testimonial-people a{width:90px;flex-shrink:0;text-align:center;text-decoration:none;font-size:12px;line-height:1.4}
+.testimonial-people img{display:block;width:70px;height:70px;border-radius:50%;object-fit:cover;margin:0 auto 10px;border:3px solid #b64e40;outline:3px solid #edbd75;outline-offset:3px}
+.testimonials-full{row-gap:40px}.testimonials-end{display:flex;flex-wrap:wrap;align-items:center;gap:24px;padding:60px 0}
+@media(max-width:900px){.testimonials-full{grid-template-columns:repeat(2,minmax(0,1fr))}.testimonials:not(.testimonials-page) .testimonials-grid{gap:16px}.testimonial-copy{padding:18px}}
+@media(max-width:640px){.testimonials-grid,.testimonials-full{grid-template-columns:1fr}.testimonials .section-heading{display:block}.testimonials .section-heading>a{display:inline-block;margin-top:15px}.testimonial-gallery{max-height:70svh}.testimonial-copy{padding:24px}.testimonials-intro{padding-top:32px}.site-header nav{gap:12px}.site-header nav a{font-size:13px}}
